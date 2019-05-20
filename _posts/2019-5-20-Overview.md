@@ -23,10 +23,16 @@ In this workshop we would to meet the musical composition processes with the inf
 
 ### Time table
 
+14:00-14:30 / Kazuyoshi Yoshii : Associate Professor, Speech and Audio Processing Group (SAP), Department of Intelligence Science and Technology (IST), Graduate School of Informatics, Kyoto University
+
+14:30-15:00 / Philippe Esling (à confirmer, mais présent à Tokyo sur cette période) : Associate professor and research in machine learning and artificial intelligence applied to music at IRCAM, Paris FRANCE
+
+15:00-16:30 / Suguru Goto and teams
+
+16:30-17:00 / Jérôme Nika (disponible par Skype) : Postdoctoral researcher at université de La Rochelle, invited researcher in the Music Representations team at IRCAM (UMR STMS 9912 CNRS), lead developer of DYCI2 Library
+
+17:00-17:30 / Tristan Carsault: PhD Student in Musical Representations team at IRCAM, FRANCE
 
 
-Jérôme Nika (disponible par Skype) : postdoctoral researcher at université de La Rochelle, invited researcher in the Music Representations team at IRCAM (UMR STMS 9912 CNRS), lead developer of DYCI2 Library
 
-Kazuyoshi Yoshii : Associate Professor, Speech and Audio Processing Group (SAP), Department of Intelligence Science and Technology (IST), Graduate School of Informatics, Kyoto University
 
-Philippe Esling (à confirmer, mais présent à Tokyo sur cette période) : associate professor and research in machine learning and artificial intelligence applied to music at IRCAM
