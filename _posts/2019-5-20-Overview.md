@@ -2,6 +2,9 @@
 layout: post
 title: Overview
 ---
+
+![_config.yml]({{ site.baseurl }}/images/DStmc5QW0AUDwKk.jpg)
+
 Interactive music
 generation has beeen defined by Joel Chabade in 1977 as "music that is produced by a hardware and
 software system that importantly includes a computer". Over the past
