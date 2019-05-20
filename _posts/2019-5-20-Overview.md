@@ -7,7 +7,7 @@ generation has beeen defined by Joel Chabade in 1977 as "music that is produced 
 software system that importantly includes a computer". Over the past
 years, many works have focused on the idea of relying on a computer
 algorithm to generate music.
-A part of this study field, the human computer co-improvisation, aims to rely on a computer in order
+A part of this study field, called human computer co-improvisation, aims to rely on a computer in order
 to produce a musical accompaniment to a musician’s improvisation.
 Besides, machine learning aims to empower the computers with the capabilities
 to perform complex tasks that are innate to humans. The main
