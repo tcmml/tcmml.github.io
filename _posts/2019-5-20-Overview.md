@@ -3,7 +3,7 @@ layout: post
 title: Overview
 ---
 Interactive music
-generation if defined by Joel Chabade as "music that is produced by a hardware and
+generation has beeen defined by Joel Chabade in 1977 as "music that is produced by a hardware and
 software system that importantly includes a computer". Over the past
 years, many works have focused on the idea of relying on a computer
 algorithm to generate music.
