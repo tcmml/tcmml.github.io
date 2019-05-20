@@ -1,9 +1,14 @@
 ---
 layout: post
-title: List of participants
+title: List of participants and timetable
 ---
 
-You will find the list of speakers for the workshop.
+You will find the list of speakers for the workshop.sfefzef
+fezfezfez
+fzefezf
+fezfezfezf
+zefezfezfezf
+zefezfezf
 
 Jérôme Nika (disponible par Skype) : postdoctoral researcher at université de La Rochelle, invited researcher in the Music Representations team at IRCAM (UMR STMS 9912 CNRS), lead developer of DYCI2 Library
 
