@@ -23,6 +23,12 @@ body {
   color: $darkGray;
 }
 
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
