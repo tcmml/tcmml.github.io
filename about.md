@@ -8,4 +8,4 @@ Do not hesitate to contact me for any obervations or questions!
 
 ### Contact me
 
-[email@domain.com](mailto:carsault@ircam.com)
+[carsault@ircam.com](mailto:carsault@ircam.com)
