@@ -19,7 +19,7 @@ of a pre-defined family of functions. The overarching goal of
 machine learning is to produce a model that could be able to generalize
 its understanding of a given (training) set to unseen data.
 
-In this workshop we would to confronte the compositional apect against the informatic development part. The aim is to understand how to developed new machine learning models in order to give more of composer end users. But also to give a brief understanding of the coding aspect of machine learning models in order to give some clues on the use of these models for music piece composition.
+In this workshop we would to meet the musical composition processes with the informatic development reality. The aim is to understand how to developed new machine learning models in order to offer better user experience to composers. And also to provide a brief understanding of machine learning models in order to give some clues on the use of these models for musical piece composition.
 
 ### Time table
 
