@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Overview
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/DStmc5QW0AUDwKk.jpg)
