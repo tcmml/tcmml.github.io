@@ -3,8 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+Inquiry:
 
-Do not hesitate to contact me for any obervations or questions!
+• Tel: 050-5525-2742
+
+• Fax: 03-5284-1576
 
 ### Contact me
 
